@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20240314_17_38_27_Pro_jpg.rf.87893f6c89a34f86022abc55c6f1bcd3.jpg</filename>
+	<path>WIN_20240314_17_38_27_Pro_jpg.rf.87893f6c89a34f86022abc55c6f1bcd3.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thumbsUp</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>800</xmin>
+			<xmax>1040</xmax>
+			<ymin>228</ymin>
+			<ymax>622</ymax>
+		</bndbox>
+	</object>
+</annotation>
