@@ -1,0 +1,27 @@
+<annotation>
+	<folder></folder>
+	<filename>WIN_20240314_17_37_21_Pro_jpg.rf.9d0d6d41a7072b707f5824143b24c8e2.jpg</filename>
+	<path>WIN_20240314_17_37_21_Pro_jpg.rf.9d0d6d41a7072b707f5824143b24c8e2.jpg</path>
+	<source>
+		<database>roboflow.com</database>
+	</source>
+	<size>
+		<width>1280</width>
+		<height>720</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>peace</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<occluded>0</occluded>
+		<bndbox>
+			<xmin>98</xmin>
+			<xmax>327</xmax>
+			<ymin>250</ymin>
+			<ymax>675</ymax>
+		</bndbox>
+	</object>
+</annotation>
